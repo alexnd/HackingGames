@@ -1,9 +1,9 @@
 # Terraria hacking
 
 ![Terraria](https://cdn.dealspotr.com/zc-images/merchants/terraria.jpg)
-+
+
 ![TChock](https://tshock.co/newlogo.png)
-+
+
 ![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/320px-Docker_%28container_engine%29_logo.svg.png)
 
 ## How to run your dedicated Terraria linux-based server, based on TShock
