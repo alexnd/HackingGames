@@ -79,6 +79,12 @@ Than you can run server with config file or path to world, add the next param to
 -world /world/<your_world_file>.wld
 ```
 
+To run stopped container, sometime in the future:
+
+```
+docker start -a -i `docker ps -q -l`
+```
+
 Inspired by [Ryansheehan's work](https://github.com/ryansheehan/terraria)
 
 To dig into admin cli, follow official [Tshock docs](https://tshock.readme.io/docs/basic-user-management)
