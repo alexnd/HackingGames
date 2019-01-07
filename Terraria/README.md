@@ -14,6 +14,8 @@
 
 [What is TShock?](https://github.com/Pryaxis/TShock/releases) - Terraria server modification, provides full access to farming items, spawn mobs, summon bosses, etc...
 
+[Guide for TShock in Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1286502182)
+
 First of all, you need to get docker ecosystem running on your linux box, it can be done running:
 
 ```
@@ -22,7 +24,7 @@ sudo apt install curl docker-ce
 
 [How to install docker on Ubuntu Linux?](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
-Anyway, the same scenario mutches OSX
+Anyway, the same scenario matches OSX
 
 Don't test it yet on mac, good issue. We run 64-x linux-based Ubuntu in virtualbox on host computer, so in this case it becomes 100% working, not depends at what OS you running on
 
@@ -109,7 +111,7 @@ You have 2 directories and 2 files:
 c:\Users\%username%\Documents\My Games\Terraria\
 ```
 
-Place **stash_player.bat** inside **GAME DIR**
+Place `stash_player.bat` inside `GAME DIR`
 
 * STASH DIR
 
