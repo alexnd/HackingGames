@@ -1,3 +1,24 @@
+# how to run your dedicated linux server based on Tshock
+
+First of all you need to get docker ecosystem running on your linux box, it can be done running:
+
+```
+sudo apt install curl docker-ce
+```
+
+Scenario to run docker container running on port 7777 with console attached
+
+```
+mkdir Terraria
+cd Terraria
+mkdir Worlds
+(cp all backed up worlds to it)
+cd ~/Terraria
+curl -LJO https://raw.githubusercontent.com/alexnd/HackingGames/master/Terraria/Dockerfile
+docker build -t "tshock-server" .
+docker run -it -p 7777:7777 -v $HOME/Terraria/Worlds:/world --name="terraria" tshock-server
+```
+
 # make/restore player backups, quick items farm
 
 ### setup
