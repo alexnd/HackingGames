@@ -8,7 +8,7 @@
 
 ## How to run your dedicated Terraria linux-based server, based on TShock
 
-[What is Terraria?](https://terraria.org) On one line - the game, online coop digging sandbox (2d)
+[What is Terraria?](https://terraria.org) - Single/multi-player game, coop digging 2d world-sandbox. Unique fantasy setting.
 
 [Terraria Wiki](https://terraria.gamepedia.com/Terraria_Wiki) - Details about this large ecosystem, biomes types, recipes...
 
