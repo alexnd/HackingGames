@@ -1,2 +1,5 @@
 # HackingGames
-some special stuff)
+
+Some special stuff to extend gaming experinece
+
+* [Terraria](Terraria/README.md)
