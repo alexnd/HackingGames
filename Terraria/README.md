@@ -1,6 +1,6 @@
 # Terraria hacking
 
-![Terraria](https://cdn.dealspotr.com/zc-images/merchants/terraria.jpg)
+![Terraria]./Guide.png)
 
 ![TChock](https://tshock.co/newlogo.png)
 
@@ -150,3 +150,14 @@ If you set your own custom locations, reflect changes in `DEST_DIR` and `SRC_DIR
 9. Whan you need to roll back the world, repeat from step 5...
 
 Good for working in a dedicated home world for farming with room full of chests ;)
+
+# Pro ;) Tips
+
+* https://terraria.gamepedia.com/Guide:Setting_up_a_Terraria_server
+
+* https://forums.terraria.org/index.php?threads/someone-know-where-i-can-found-world-and-player-saves-on-ubuntu-16-04-lts.47797/
+
+```
+    #!/bin/sh
+    ./TerrariaServer -config <serverconfigfile>
+```
