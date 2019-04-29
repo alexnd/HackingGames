@@ -1,6 +1,6 @@
 # Terraria hacking
 
-![Terraria]./Guide.png)
+![Terraria](./Guide.png)
 
 ![TChock](https://tshock.co/newlogo.png)
 
