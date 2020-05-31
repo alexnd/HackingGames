@@ -93,9 +93,7 @@ For 2019 we require web cli (PWA) nodejs-based community driven app to be develo
 
 ...Than you just run second container with web-gui and open next level in your community farming experience!
 
-Next ideas:
-- Extend package scripts, make as ready-to-use tool with tested npm commands
-- Web-gui: Control backend server app. Items ids database with datamining from official wiki sources
+# [terrAdmin web gui](https://github.com/alexnd/terrAdmin)
 
 # "Old way" tools ;)
 
