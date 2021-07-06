@@ -8,4 +8,4 @@ Special stuff to extend gaming experience ;)
 
 * [CS 1.6 Server](https://github.com/alexnd/cs16server) - Counter-Strike Server with bots in docker
 
-* [Phaser-based hexagonal tilemap](https://github.com/alexnd/phaser-hextilemap/), Tiled editor + PNG spriteS supported
+* [Phaser-based hexagonal tilemap](https://github.com/alexnd/phaser-hextilemap/), Tiled maps editor and PNG sprites supported
